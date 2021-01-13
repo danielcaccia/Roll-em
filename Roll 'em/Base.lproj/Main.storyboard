@@ -42,7 +42,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.18142785559999999" green="0.35686274509999999" blue="0.36470588240000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.082352941176470587" green="0.36078431372549019" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <connections>
                         <outlet property="leftDice" destination="iH3-yv-6bR" id="Ago-h7-lWN"/>
